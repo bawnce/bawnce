@@ -58,8 +58,7 @@
     "gdpr": false,
     "uniqCompNum": 1,
     "versionPublish": "5.9.18",
-    "screenshot": "screenshot.png",
-    "publishEditFolder": true
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
