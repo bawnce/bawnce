@@ -38,12 +38,18 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.9.18",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/bawnce-logo-128x128.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "mbrsiteDomain": "xky2m2bg1t",
+    "mbrsiteDomain": "yjen7hqnum",
     "usedWebp": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -51,14 +57,15 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 1,
-    "versionPublish": "5.9.18"
+    "versionPublish": "5.9.18",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Bawnce",
+        "meta_descr": "Viva o movimento!\nPeças para te fazer sentir bem.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
